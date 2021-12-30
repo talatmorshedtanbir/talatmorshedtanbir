@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/talatmorshedtanbir?tab=repositories](https://github.com/talatmorshedtanbir?tab=repositories)
 
-- 📝 I am currently reading [The Pragmatic Programmer by Andy Hunt and Dave Thomas](The Pragmatic Programmer by Andy Hunt and Dave Thomas)
+- 📝 I am currently reading "The Pragmatic Programmer" by Andy Hunt and Dave Thomas
 
 - 💬 Ask me about **Asp Net Core, Angular**
 
